@@ -1,3 +1,3 @@
 # fitfat
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/MehmetFaahem/fitfat)
+#Ecommerce using NExt JS 14 App Router (Full Stack)
